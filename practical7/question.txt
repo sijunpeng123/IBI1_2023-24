@@ -1,0 +1,2 @@
+Plot a boxplot of DALYs across countries in 2019.
+number：29, 59, 89, ..., 6809, 6839
