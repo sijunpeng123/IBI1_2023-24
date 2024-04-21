@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer:Produce 99 random number from 1 to 9, and add them together.
+# Answer:Produce 100 random number from 1 to 10, and add them together.
 # Import libraries
 # randint allows drawing a random number,
 # e.g. randint(1,5) draws a number between 1 and 5
