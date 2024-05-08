@@ -21,6 +21,9 @@ identity_rate_1, score_1 = score_and_identity_rate(human_sequence, cat_sequence)
 identity_rate_2, score_2 = score_and_identity_rate(human_sequence, rat_sequence)
 identity_rate_3, score_3 = score_and_identity_rate(rat_sequence, cat_sequence)
 
-print('Human and cat:', identity_rate_1, score_2)
+print('Human and cat:',  identity_rate_1,  score_1)
 print('Human and rat:', identity_rate_2, score_2)
 print('Rat and cat:', identity_rate_3, score_3)
+
+# Rat's and cat's sequendce are more related
+# Mouse is better model organism for human
